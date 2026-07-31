@@ -1,0 +1,2 @@
+# lite-cli
+rust project
